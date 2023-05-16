@@ -1,6 +1,6 @@
-def func(a):
+def func(str):
     """Заглавные буквы строки"""
-    return a.lower
+    return str.lower()
 
 def func2(str):
     """Заглавные буквы слов в строке"""
